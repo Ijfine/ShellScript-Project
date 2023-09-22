@@ -230,7 +230,7 @@ Step 4: Run the script using this command:
 './calculations.sh'
 ```
 
-![Alt text](Images/calc.png)
+![Alt text](Images/numbers.png)
 
 FILE BACKUP AND TIMESTAMPING
 
@@ -276,4 +276,4 @@ To run the script, use this command:
 './backup.sh'
 ```
 
-![Alt text](Images/back.png)
+![Alt text](Images/filebackup.png)
